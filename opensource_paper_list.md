@@ -36,7 +36,7 @@
 ### 2019.4 参考文献“扫荡”之文
 
 - [ ] 1. [How to Succeed in Business by Bundling – and Unbundling](https://hbr.org/2014/06/how-to-succeed-in-business-by-bundling-and-unbundling)
-- [ ] 2. Eric von Hipel，Karim Lakhani 《HOW OPEN SOURCE SOFTWARE WORKS:”FREE” USER-TO-USER ASSISTANCE?》 2000
+- [x] 2. Eric von Hipel，Karim Lakhani 《HOW OPEN SOURCE SOFTWARE WORKS:”FREE” USER-TO-USER ASSISTANCE?》 2000
 - [ ] 3. [Open Source the year of book](https://opensource.com/sites/default/files/gated-content/2018_open_source_yearbook.pdf)
 - [ ] 4.  Eric von Hipel《Open Source Software and the “Private-Collective” Innovation Model:Issues for Organization Science》，2003
 - [ ] 5.  Eric von Hippel 《Innovation by User Communities:Learning from Open-Source Software》
