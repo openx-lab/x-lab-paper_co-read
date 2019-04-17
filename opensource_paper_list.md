@@ -60,3 +60,9 @@
 - [ ] 2. [Uncovering the Periphery: A Qualitative Survey of Episodic Volunteering in Free/Libre and Open Source Software Communities](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8477174)
 - [ ] 3. [Keeping Your Episodic Contributors to Open-Source Projects Happy](https://cora.ucc.ie/)
 - [ ] 4. [Episodic Volunteering and Retention: An Integrated Theoretical Approach](https://journals.sagepub.com/doi/pdf/10.1177/0899764014558934)
+
+### 三、开源在高校相关研究
+
+- [ ] [Training Software Engineers using Open-Source Software: The Professors’ Perspective](http://gustavopinto.org/lost+found/cseet2017.pdf)
+- [x] [Cracking the Code — how Mozilla is helping university students contribute to Open Source](https://medium.com/mozilla-open-innovation/cracking-the-code-how-mozilla-is-helping-university-students-contribute-to-open-source-25fa630d8c5c)
+- [ ] [Why isn't open source hot among computer science students?](https://opensource.com/article/17/12/students-and-open-source-3-common-preconceptions)
