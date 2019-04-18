@@ -66,3 +66,4 @@
 - [ ] [Training Software Engineers using Open-Source Software: The Professors’ Perspective](http://gustavopinto.org/lost+found/cseet2017.pdf)
 - [x] [Cracking the Code — how Mozilla is helping university students contribute to Open Source](https://medium.com/mozilla-open-innovation/cracking-the-code-how-mozilla-is-helping-university-students-contribute-to-open-source-25fa630d8c5c)
 - [ ] [Why isn't open source hot among computer science students?](https://opensource.com/article/17/12/students-and-open-source-3-common-preconceptions)
+- [ ] [How Open Source Is Changing the Software Developer’s Career](https://dirkriehle.com/wp-content/uploads/2015/04/r5rie-v3.pdf)
