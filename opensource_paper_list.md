@@ -35,10 +35,10 @@
 
 ### 2019.4 参考文献“扫荡”之文
 
-- [ ] 1. [How to Succeed in Business by Bundling – and Unbundling](https://hbr.org/2014/06/how-to-succeed-in-business-by-bundling-and-unbundling)
+- [x] 1. [How to Succeed in Business by Bundling – and Unbundling](https://hbr.org/2014/06/how-to-succeed-in-business-by-bundling-and-unbundling)
 - [x] 2. Eric von Hipel，Karim Lakhani 《HOW OPEN SOURCE SOFTWARE WORKS:”FREE” USER-TO-USER ASSISTANCE?》 2000
-- [ ] 3. [Open Source the year of book](https://opensource.com/sites/default/files/gated-content/2018_open_source_yearbook.pdf)
-- [ ] 4.  Eric von Hipel《Open Source Software and the “Private-Collective” Innovation Model:Issues for Organization Science》，2003
+- [x] 3. Joel West，《How Open is Open enough？Melding proprietary and open source platform strategies》 2003
+- [x] 4.  Eric von Hipel《Open Source Software and the “Private-Collective” Innovation Model:Issues for Organization Science》，2003
 - [ ] 5.  Eric von Hippel 《Innovation by User Communities:Learning from Open-Source Software》
 - [ ] 6. Joel West & Karim R. Lakhani，《Getting Clear About Communities in Open Innovation》，2008
 - [ ] 7. Erik Brynjolfsson 《The Productivity Paradox of Information Technology: Review and Assessment》1993

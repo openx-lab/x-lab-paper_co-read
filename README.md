@@ -34,6 +34,12 @@
 
 ## Review
 
+### 开源相关篇
+
+1. [《开源软件开发机构的组织与架构》阅读笔记和感悟](review_open_source_paper/org_structure_oss_development_initiatives.md)
+
+### Serverless 篇
+
 1. [伯克利论断：Serverless 是云时代的主宰，未来十年会迅速被采用](https://mp.weixin.qq.com/s/25NlQwPGokxNLM9YReN4NA)，李建盛， 发表在 InfoQ 中国(https://www.infoq.cn/)
 
 ## 贡献者列表
