@@ -6,9 +6,9 @@
 
 - [x] 2019.3  [Enterprise Open Source: A Practical Introduction](https://www.linuxfoundation.org/open-source-management/2018/08/enterprise-open-source-practical-introduction/)
 
-- [ ] 2019.4 开源软件开发计划的组织与结构 [Organization & Structure of Open Source Software Development Initiatives](http://clinic.cyber.harvard.edu/files/2017/03/2017-03_governance-FINAL.pdf)
+- [x] 2019.4 开源软件开发计划的组织与结构 [Organization & Structure of Open Source Software Development Initiatives](http://clinic.cyber.harvard.edu/files/2017/03/2017-03_governance-FINAL.pdf)
 
-- [ ] 2019.5
+- [ ] 2019.5  An Exploratory Study of the Pull-based Software Development Model
 
 ## 2019年开源文献番外阅读列表
 
@@ -40,9 +40,20 @@
 - [x] 3. Joel West，《How Open is Open enough？Melding proprietary and open source platform strategies》 2003
 - [x] 4.  Eric von Hipel《Open Source Software and the “Private-Collective” Innovation Model:Issues for Organization Science》，2003
 - [ ] 5.  Eric von Hippel 《Innovation by User Communities:Learning from Open-Source Software》
-- [ ] 6. Joel West & Karim R. Lakhani，《Getting Clear About Communities in Open Innovation》，2008
+- [x] 6. Joel West & Karim R. Lakhani，《Getting Clear About Communities in Open Innovation》，2008
 - [ ] 7. Erik Brynjolfsson 《The Productivity Paradox of Information Technology: Review and Assessment》1993
 - [ ] 8.  D.L. Parnas  [On the Criteria To Be Used in Decomposing Systems into Modules ](https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf)，1972
+
+### 2019.5 参考文献“扫荡”之文
+
+- [ ] 1. Creating a Shared Understanding of Testing Culture on a Social Coding Site， 2013
+- [ ] 2. THE CREATIVE FORCES OF SELF-ORGANIZATION，2012
+- [ ] 3. Dynamic Governance for Nonprofit Organizations，2014
+- [ ] 4. Dynamic Leadership: Getting Around Blind Spots，2016
+- [ ] 5. Evolution Patterns of Open-Source Software Systems and Communities，2002
+- [ ] 6. Onboarding in Open Source Projects，2014
+- [ ] 7. Performance and Participation in Open Source Software on GitHub，2013
+- [ ] 8. Work Practices and Challenges in Pull-Based Development: The Contributor’s Perspective，2016
 
 
 ## 专题篇
