@@ -42,7 +42,7 @@
 - [ ] 5.  Eric von Hippel 《Innovation by User Communities:Learning from Open-Source Software》
 - [x] 6. Joel West & Karim R. Lakhani，《Getting Clear About Communities in Open Innovation》，2008
 - [ ] 7. Erik Brynjolfsson 《The Productivity Paradox of Information Technology: Review and Assessment》1993
-- [ ] 8.  D.L. Parnas  [On the Criteria To Be Used in Decomposing Systems into Modules ](https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf)，1972
+- [x] 8.  D.L. Parnas  [On the Criteria To Be Used in Decomposing Systems into Modules ](https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf)，1972
 
 ### 2019.5 参考文献“扫荡”之文
 
@@ -78,3 +78,27 @@
 - [x] [Cracking the Code — how Mozilla is helping university students contribute to Open Source](https://medium.com/mozilla-open-innovation/cracking-the-code-how-mozilla-is-helping-university-students-contribute-to-open-source-25fa630d8c5c)
 - [ ] [Why isn't open source hot among computer science students?](https://opensource.com/article/17/12/students-and-open-source-3-common-preconceptions)
 - [ ] [How Open Source Is Changing the Software Developer’s Career](https://dirkriehle.com/wp-content/uploads/2015/04/r5rie-v3.pdf)
+
+### 四、Ann Barcomb研究成果
+
+- [ ] [Episodic volunteering in open source communities](https://barcomb.org/cgi/paper.cgi?paper=barcomb:2016:episodic)
+- [ ] [Using Students as a Distributed Coding Team for Validation through Intercoder Agreement](https://barcomb.org/cgi/paper.cgi?paper=kaufmann:2016:using)
+- [ ] [How Developers Acquire FLOSS Skills](https://barcomb.org/cgi/paper.cgi?paper=barcomb:2015:developers)
+- [ ] [A multiple case study of small free software businesses as social entrepreneurships](https://barcomb.org/cgi/paper.cgi?paper=barcomb:2015:multiple)
+- [ ] [Volunteer management in open source communities](https://barcomb.org/cgi/paper.cgi?paper=barcomb:2015:volunteer)
+- [ ] [Volunteer Attraction and Retention in Open Source Communities](https://barcomb.org/cgi/paper.cgi?paper=barcomb:2014:volunteer)
+- [ ] [The Sociability of Free Software: A GNU Look at Free Software Identified Businesses as Social Entrepreneurships](https://barcomb.org/cgi/paper.cgi?paper=barcomb:2010:sociability)
+
+### 五、DIRK RIEHLE 教授研究系列
+
+[https://dirkriehle.com/](https://dirkriehle.com/)
+
+- [ ] [The Innovations of Open Source](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8690207)
+- [ ] []()
+- [ ] []()
+- [ ] []()
+- [ ] []()
+- [ ] []()
+- [ ] []()
+- [ ] []()
+- [ ] []()
