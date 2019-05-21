@@ -14,13 +14,13 @@
 
 ### 2019.1 参考文献“扫荡”之文
 
-1. [Contrasting Community Building in Sponsored and Community Founded Open Source Projects]
-2. [Why do commercial companies contribute to open source software](https://www.sciencedirect.com/science/article/pii/S026840121100123X)
-3. [Nonprofit Foundations and Their Role in Community-Firm Software Collaboration]
+- [x] [Contrasting Community Building in Sponsored and Community Founded Open Source Projects]
+- [x] [Why do commercial companies contribute to open source software](https://www.sciencedirect.com/science/article/pii/S026840121100123X)
+- [x] [Nonprofit Foundations and Their Role in Community-Firm Software Collaboration]
 
 ### 2019.2 参考文献“扫荡”之文
 
-1. [The Rise and Evolution of the Open Source Software Foundation](https://www.slideshare.net/stephenrwalli/the-rise-and-evolution-of-the-open-source-software-foundation) （该文在撰写[《云原生的旭日东升 —— CNCF 2018年度报告解读》](posts/foundation_introduce/review-cncf-2018-annual-report/) 时阅读过来，就从预计的三月份中取消了。请知晓！）
+- [x] [The Rise and Evolution of the Open Source Software Foundation](https://www.slideshare.net/stephenrwalli/the-rise-and-evolution-of-the-open-source-software-foundation) （该文在撰写[《云原生的旭日东升 —— CNCF 2018年度报告解读》](posts/foundation_introduce/review-cncf-2018-annual-report/) 时阅读过来，就从预计的三月份中取消了。请知晓！）
 
 ### 2019.3 参考文献“扫荡”之文
 
