@@ -39,16 +39,16 @@
 - [x] 2. Eric von Hipel，Karim Lakhani 《HOW OPEN SOURCE SOFTWARE WORKS:”FREE” USER-TO-USER ASSISTANCE?》 2000
 - [x] 3. Joel West，《How Open is Open enough？Melding proprietary and open source platform strategies》 2003
 - [x] 4.  Eric von Hipel《Open Source Software and the “Private-Collective” Innovation Model:Issues for Organization Science》，2003
-- [ ] 5.  Eric von Hippel 《Innovation by User Communities:Learning from Open-Source Software》
+- [x] 5.  Eric von Hippel 《Innovation by User Communities:Learning from Open-Source Software》
 - [x] 6. Joel West & Karim R. Lakhani，《Getting Clear About Communities in Open Innovation》，2008
-- [ ] 7. Erik Brynjolfsson 《The Productivity Paradox of Information Technology: Review and Assessment》1993
+- [x] 7. Erik Brynjolfsson 《The Productivity Paradox of Information Technology: Review and Assessment》1993
 - [x] 8.  D.L. Parnas  [On the Criteria To Be Used in Decomposing Systems into Modules ](https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf)，1972
 
 ### 2019.5 参考文献“扫荡”之文
 
 - [ ] 1. Creating a Shared Understanding of Testing Culture on a Social Coding Site， 2013
 - [ ] 2. THE CREATIVE FORCES OF SELF-ORGANIZATION，2012
-- [ ] 3. Dynamic Governance for Nonprofit Organizations，2014
+- [x] 3. Dynamic Governance for Nonprofit Organizations，2014
 - [ ] 4. Dynamic Leadership: Getting Around Blind Spots，2016
 - [ ] 5. Evolution Patterns of Open-Source Software Systems and Communities，2002
 - [ ] 6. Onboarding in Open Source Projects，2014
