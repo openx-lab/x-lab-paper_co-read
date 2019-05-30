@@ -52,8 +52,9 @@
 - [ ] 4. Dynamic Leadership: Getting Around Blind Spots，2016
 - [ ] 5. Evolution Patterns of Open-Source Software Systems and Communities，2002
 - [ ] 6. Onboarding in Open Source Projects，2014
-- [ ] 7. Performance and Participation in Open Source Software on GitHub，2013
+- [x] 7. Performance and Participation in Open Source Software on GitHub，2013
 - [ ] 8. Work Practices and Challenges in Pull-Based Development: The Contributor’s Perspective，2016
+- [ ] 9. Social Coding in GitHub: Transparency and Collaboration in an Open Software Repository，ACM 2012
 
 
 ## 专题篇
