@@ -46,7 +46,7 @@
 
 ### 2019.5 参考文献“扫荡”之文
 
-- [ ] 1. Creating a Shared Understanding of Testing Culture on a Social Coding Site， 2013
+- [x] 1. Creating a Shared Understanding of Testing Culture on a Social Coding Site， 2013
 - [ ] 2. THE CREATIVE FORCES OF SELF-ORGANIZATION，2012
 - [x] 3. Dynamic Governance for Nonprofit Organizations，2014
 - [ ] 4. Dynamic Leadership: Getting Around Blind Spots，2016
