@@ -8,7 +8,9 @@
 
 - [x] 2019.4 开源软件开发计划的组织与结构 [Organization & Structure of Open Source Software Development Initiatives](http://clinic.cyber.harvard.edu/files/2017/03/2017-03_governance-FINAL.pdf)
 
-- [ ] 2019.5  An Exploratory Study of the Pull-based Software Development Model
+- [x] 2019.5  An Exploratory Study of the Pull-based Software Development Model
+
+- [ ] 2019.6 Transmission of Values and Culture in Open Source （非常重要）
 
 ## 2019年开源文献番外阅读列表
 
@@ -47,14 +49,24 @@
 ### 2019.5 参考文献“扫荡”之文
 
 - [x] 1. Creating a Shared Understanding of Testing Culture on a Social Coding Site， 2013
-- [ ] 2. THE CREATIVE FORCES OF SELF-ORGANIZATION，2012
-- [x] 3. Dynamic Governance for Nonprofit Organizations，2014
-- [ ] 4. Dynamic Leadership: Getting Around Blind Spots，2016
-- [ ] 5. Evolution Patterns of Open-Source Software Systems and Communities，2002
-- [ ] 6. Onboarding in Open Source Projects，2014
-- [x] 7. Performance and Participation in Open Source Software on GitHub，2013
-- [ ] 8. Work Practices and Challenges in Pull-Based Development: The Contributor’s Perspective，2016
-- [ ] 9. Social Coding in GitHub: Transparency and Collaboration in an Open Software Repository，ACM 2012
+- [x] 2. Dynamic Governance for Nonprofit Organizations，2014
+- [x] 3. Onboarding in Open Source Projects，2014
+- [x] 4. Performance and Participation in Open Source Software on GitHub，2013
+
+### 2019.6 参考文献“扫荡”之文
+
+- [ ] . THE CREATIVE FORCES OF SELF-ORGANIZATION，2012
+- [ ] . Dynamic Leadership: Getting Around Blind Spots，2016
+- [ ] . Evolution Patterns of Open-Source Software Systems and Communities，2002
+- [ ] . Novice Software Developers, All Over Again
+- [ ] . Social Coding in GitHub: Transparency and Collaboration in an Open Software Repository，ACM 2012
+- [ ]  The Role of Mentoring and Project Characteristics for Onboarding in Open Source Software Projects
+- [ ]  Onboarding in Open Source Software Projects: A Preliminary Analysis
+- [ ]  Will My Patch Make It? And How Fast? Case Study on the Linux Kernel
+- [ ]  The GitHub Open Source Development Process
+- [ ]  A preliminary examination of code review processes in  open source projects
+- [ ]  Why do newcomers abandon open source software projects
+- [ ]  Work Practices and Challenges in Pull-Based Development: The Contributor’s Perspective，2016
 
 
 ## 专题篇
